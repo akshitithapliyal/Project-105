@@ -1,0 +1,16 @@
+body{
+    color:black;
+    background:lightpink;
+}
+.heading{
+    width:50%;
+    font-size:medium;
+}
+#camera{
+    border:3px solid black;
+    width:350px;
+    height:300px;
+}
+.name_of_objects,#result_person_name,#result_person_accuracy{
+    color:black;
+}
